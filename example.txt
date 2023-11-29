@@ -1,3 +1,8 @@
-hello world
-hello
-sent to files
+[5210-x32]
+https://www.mediafire.com/file/2cjmk2chhnvwefp/5210.rar/file
+[5210-x64]
+https://www.mediafire.com/file/m0x6j2wlvxyyeru/5210-x64.rar/file
+[5290-x32]
+https://www.mediafire.com/file/3xbhv3vb4kxh1yh/5290.rar/file
+[5290-x64]
+https://www.mediafire.com/file/1u0fh67ulfjutj9/5290-x64.rar/file
