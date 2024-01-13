@@ -120,3 +120,5 @@ https://www.mediafire.com/file/k1gmedar7v11oh6/ic.rar/file
 https://www.mediafire.com/file/aw8s04q9mikqa0x/tt.rar/file
 [update]
 https://www.mediafire.com/file/i7wxtt0hlwdc201/update.rar/file
+[database]
+https://www.mediafire.com/file/8909jx5ruy995xz/database.txt/file
