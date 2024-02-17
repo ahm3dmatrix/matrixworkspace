@@ -2,6 +2,10 @@
 https://www.mediafire.com/file/2cjmk2chhnvwefp/5210.rar/file
 [5210-x64]
 https://www.mediafire.com/file/m0x6j2wlvxyyeru/5210-x64.rar/file
+[5310-x32]
+https://www.mediafire.com/file/jlbdwccr392b0zi/5310.rar/file
+[5310-x64]
+https://www.mediafire.com/file/njz8g2cwxxizjp0/5310-x64.rar/file
 [5290-x32]
 https://www.mediafire.com/file/3xbhv3vb4kxh1yh/5290.rar/file
 [5290-x64]
@@ -18,6 +22,10 @@ https://www.mediafire.com/file/54tw8fjymg3bzez/5290BAM-x64.rar/file
 https://www.mediafire.com/file/pz3nxxil3k5qksy/5710.rar/file
 [5710-x64]
 https://www.mediafire.com/file/c0fmt9sloz779gh/5710-x64.rar/file
+[5810-x32]
+https://www.mediafire.com/file/wu3tnix1ya4wye3/5810.rar/file
+[5810-x64]
+https://www.mediafire.com/file/oufhfqyak72rgj8/5810-x64.rar/file
 [5790-x32]
 https://www.mediafire.com/file/c9f871wvgrde7t2/5790.rar/file
 [5790-x64]
@@ -62,6 +70,14 @@ https://www.mediafire.com/file/spjrstrsi3qpl8a/878R-x64.rar/file
 https://www.mediafire.com/file/tqs63swa0leb09e/879R.rar/file
 [879R-x64]
 https://www.mediafire.com/file/zc0agh7bt46f6jc/879R-x64.rar/file
+[17590-x32]
+https://www.mediafire.com/file/aw53x26veal12mp/17590.rar/file
+[17590-x64]
+https://www.mediafire.com/file/2tah13ycfm9ho7e/17590-x64.rar/file
+[21000-x32]
+https://www.mediafire.com/file/ntx63vpzgv4ty48/21000.rar/file
+[21000-x64]
+https://www.mediafire.com/file/sz5rvxx66qskqpa/21000-x64.rar/file
 [5210-cs]
 https://www.mediafire.com/file/jii1d05vmwi367d/5210-cs.rar/file
 [5210-ic]
