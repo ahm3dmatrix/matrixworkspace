@@ -248,3 +248,7 @@ https://www.mediafire.com/file/4cg1e46o0vdhsoz/get.rar/file
 https://www.mediafire.com/file/i7wxtt0hlwdc201/update.rar/file
 [database]
 https://www.mediafire.com/file/8909jx5ruy995xz/database.txt/file
+[anydesk]
+https://www.mediafire.com/file/tfjqdq9ixrevetk/anydesk.rar/file
+[charger]
+https://www.mediafire.com/file/uwd88rg0t2hh4lc/charger.rar/file
