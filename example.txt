@@ -295,8 +295,8 @@ https://www.mediafire.com/file_premium/r0jbf02pkzekm5f/CH1.rar/file
 
 [get]
 https://www.mediafire.com/file/4cg1e46o0vdhsoz/get.rar/file
-[update]
-https://www.mediafire.com/file/i7wxtt0hlwdc201/update.rar/file
+[update-armord]
+https://www.mediafire.com/file_premium/ql9q0wh660oeuj4/update-armord.rar/file
 [database]
 https://www.mediafire.com/file/8909jx5ruy995xz/database.txt/file
 [anydesk]
